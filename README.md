@@ -7,9 +7,9 @@ Managed with [GNU Stow](https://www.gnu.org/software/stow/).
 ```bash
 git clone --recurse-submodules git@github.com:allvibesnocodes/dotfiles.git ~/dotfiles
 # backup if needed
-rm -rf ~/.config/nvim ~/.config/tmux ~/.config/i3
+rm -rf ~/.config/nvim ~/.config/tmux ~/.config/i3 ~/.config/tmuxinator
 cd ~/dotfiles
-stow nvim tmux i3
+stow nvim tmux i3 tmuxinator
 ```
 
 ## Common Commands
@@ -25,7 +25,7 @@ stow -D nvim
 stow -R nvim
 
 # Stow everything
-stow nvim tmux i3
+stow nvim tmux i3 tmuxinator
 ```
 
 ## Update Submodules

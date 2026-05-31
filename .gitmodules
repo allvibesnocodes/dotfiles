@@ -7,3 +7,6 @@
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
 	url = git@github.com:allvibesnocodes/nvim.git
+[submodule "tmuxinator/.config/tmuxinator"]
+	path = tmuxinator/.config/tmuxinator
+	url = git@github.com:allvibesnocodes/tmuxinator.git
