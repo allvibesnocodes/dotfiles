@@ -1,0 +1,14 @@
+# Secrets and API keys
+.env
+secret*
+credentials*
+
+# Neovim backups and undo history
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Package manager lockfiles (optional, exclude if you want absolute recreation)
+# lazy-lock.json
+
