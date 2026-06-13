@@ -1,0 +1,10 @@
+# apt dependencies for the Neovim (LazyVim) config.
+# Neovim itself is installed from the official release tarball by install.sh,
+# because LazyVim needs a newer version than apt ships.
+git
+curl
+unzip
+build-essential
+ripgrep
+fd-find
+xclip

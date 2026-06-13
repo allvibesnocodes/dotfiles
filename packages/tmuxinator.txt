@@ -1,0 +1,3 @@
+# apt dependencies for tmuxinator (the apt package pulls in the Ruby runtime).
+tmuxinator
+tmux

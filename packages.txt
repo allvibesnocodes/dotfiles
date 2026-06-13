@@ -1,2 +1,6 @@
+# Base tools the install wizard itself needs (installed via apt).
+# Per-component dependencies live in packages/<name>.txt.
 stow
-tmuxinator
+git
+curl
+unzip

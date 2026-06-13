@@ -1,0 +1,6 @@
+# apt dependencies for the tmux config.
+# TPM (tmux plugin manager) self-installs from tmux.conf on first launch;
+# git below is what it needs to clone itself.
+tmux
+git
+xclip

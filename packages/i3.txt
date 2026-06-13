@@ -1,0 +1,7 @@
+# apt dependencies for the i3 config.
+i3
+feh
+kitty
+flameshot
+dex
+x11-xserver-utils

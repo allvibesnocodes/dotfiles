@@ -1,12 +1,12 @@
 [submodule "i3/.config/i3"]
 	path = i3/.config/i3
-	url = git@github.com:allvibesnocodes/i3.git
+	url = https://github.com/allvibesnocodes/i3.git
 [submodule "tmux/.config/tmux"]
 	path = tmux/.config/tmux
-	url = git@github.com:allvibesnocodes/tmux.git
+	url = https://github.com/allvibesnocodes/tmux.git
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
-	url = git@github.com:allvibesnocodes/nvim.git
+	url = https://github.com/allvibesnocodes/nvim.git
 [submodule "tmuxinator/.config/tmuxinator"]
 	path = tmuxinator/.config/tmuxinator
-	url = git@github.com:allvibesnocodes/tmuxinator.git
+	url = https://github.com/allvibesnocodes/tmuxinator.git
